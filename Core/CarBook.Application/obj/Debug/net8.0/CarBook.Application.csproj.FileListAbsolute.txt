@@ -13,3 +13,4 @@
 /Users/senapeksin/project/CarBook/Core/CarBook.Application/bin/Debug/net8.0/CarBook.Domain.pdb
 /Users/senapeksin/project/CarBook/Core/CarBook.Application/obj/Debug/net8.0/CarBook.Application.csproj.AssemblyReference.cache
 /Users/senapeksin/project/CarBook/Core/CarBook.Application/obj/Debug/net8.0/CarBook..F1F8929D.Up2Date
+/Users/senapeksin/project/CarBook/Core/CarBook.Application/obj/Debug/net8.0/CarBook.Application.sourcelink.json
