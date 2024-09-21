@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "rRw9CgdrCiWvmpJs+Elu6xhR9WRPeZlJ5UE1GYzjG8cPGlBQvq4OqcWtqSxK19Rt/wyPq4U0Nng5GEehT+28qg==",
+  "dgSpecHash": "adqVLm6Xh0uxWUKinJwPGJriYtzikL52/WmLO20QI/UwbLQPCvXEJk/vVoxCeDIYPLIvsugHJnAhJ2IcrRhG0A==",
   "success": true,
   "projectFilePath": "/Users/senapeksin/project/CarBook/Core/CarBook.Application/CarBook.Application.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "/Users/senapeksin/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/Users/senapeksin/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/senapeksin/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/senapeksin/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/senapeksin/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/senapeksin/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/senapeksin/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0, MediatR (>= 11.0.0 && < 12.0.0) gerektiriyor ancak sürüm MediatR 12.0.1 çözümlenmiş.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
